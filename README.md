@@ -93,4 +93,5 @@ To use the library in your code:
     gcc your_c_file.c -L. -lft -o your_program_name
 
 Example:
-![Screenshot from 2024-06-21 14-50-38](https://github.com/Miami05/Libft_42/assets/163139187/746644b9-67e8-4bd7-9bf4-97c0b381d681)
+![Screenshot from 2024-06-21 15-04-42](https://github.com/Miami05/Libft_42/assets/163139187/bcfb95db-a8e6-4a54-a471-f8e3fbbdee24)
+
